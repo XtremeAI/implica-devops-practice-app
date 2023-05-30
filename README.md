@@ -8,14 +8,12 @@ npm create astro@latest -- --template basics
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
-
+![app_screenshot](https://github.com/XtremeAI/implica-devops-practice-app/assets/40867886/726edf13-b06c-4cf0-b03d-f74a936bdbed)
 
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
+
 
 ```
 /
